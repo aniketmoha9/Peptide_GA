@@ -1,4 +1,3 @@
-from ligands.energy_record import save_energies
 from vina import Vina
 import glob
 import os
